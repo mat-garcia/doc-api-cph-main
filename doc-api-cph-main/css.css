@@ -1,0 +1,48 @@
+:root {
+    --bg-cor-1: #272822;
+    --bg-cor-2: black; /* #e7e7e7 ;*/
+    /* --bg-cor-3: black ; */
+    --bg-cor-3: #dbd2b0 ;
+    --bg-cor-4: #666 ;
+    --bg-cor-5: #ddd ;
+    --bg-cor-6: #232323 ;
+    --bg-cor-7: #1c90b4;
+    --bg-cor-8: #454545;
+    --bg-cor-hover-link: rgba(0, 0, 0, 0.05);
+
+    --text-cor-1: #ddd;
+    --text-cor-2: #f92672;
+    --text-cor-3: #66d9ef;
+    --text-cor-4: white;
+    --text-cor-5: #bf79db;
+    --text-cor-6: #a6e22e;
+    --text-cor-7: #75715e;
+    --text-cor-8: #333;
+    --text-cor-9: #0064c8;
+    --text-cor-10: #ccc;
+    --text-cor-11: #ccc;
+    /* --text-cor-12: #7d69cb; roxo padrao insominia */
+    --text-cor-12: #20314B;
+    --text-cor-13: #59a210;
+    --text-cor-14: #d07502;
+    --text-cor-15: #ff9a1f;
+    --text-cor-16: #d04444;
+    --text-cor-17: var(--bg-cor-7);
+
+
+    
+    --bg-segundaria: ;
+    --cor-primaria: ;
+    --cor-segundaria: ;
+    --text-primaria: ;
+    --text-secundaria: ;
+}
+.printDoc{
+    background-color: white;
+    border-radius: 3px;
+    padding: 10px;
+    font-size: 1.17em;
+    letter-spacing: 1px;
+    cursor: pointer;
+    outline: none;
+}
