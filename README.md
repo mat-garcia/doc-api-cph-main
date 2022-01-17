@@ -1,9 +1,11 @@
 # doc-api-cph
 Documentação da API CPH
 
-mateus garcia
+Erick Ojeda
 
-daniel meireles
+Mateus Garcia
+
+Daniel Meireles
 
 https://api-cph.netlify.app/
 
